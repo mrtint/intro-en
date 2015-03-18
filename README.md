@@ -1,4 +1,4 @@
-# Introduce myself in English (나의 소개 영문 판)
+# Introduce myself in English (나의 소개)
 
 ## Purpose
 
